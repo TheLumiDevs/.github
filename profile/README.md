@@ -1,13 +1,18 @@
-## Hi there 👋
+# Hi there, we're TheLumiDevs 👋
 
-fakeProfile become organization? Maybe soon...
-<!--
+We are an organization focused on creating and maintaining plugins for Discord mod clients.
 
-**Here are some ideas to get you started:**
+## 🔗 Connect with us
+- **Discord:** https://discord.gg/ffmkewQ4R7
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## ✨ Our Projects
+Here are some of our key projects:
+- **[fakeProfile](https://github.com/TheLumiDevs/fakeProfile):** A plugin that allows you to set a custom profile card on Discord.
+- **[fakeProfile-mobile-plugin](https://github.com/TheLumiDevs/fakeProfile-mobile-plugin):** The mobile version of the fakeProfile plugin.
+
+## 💻 Tech Stack
+We primarily work with:
+- Python
+- TypeScript
+
+Thanks for visiting our profile!
