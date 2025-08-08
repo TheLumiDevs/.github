@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://camo.githubusercontent.com/4f040c74b41366ab85967e63b2581f2af866f4f4ca39dbabb34fc570967a5dc7/68747470733a2f2f692e696d6775722e636f6d2f69446c7367374c2e706e67" Alt="Lumi Logo" width="250">
+
 # <img src="https://avatars.githubusercontent.com/u/221838119?s=25" alt="fP-extension-build Logo"> Hi there, we're _TheLumiDevs_ <img src="https://avatars.githubusercontent.com/u/221838119?s=25" alt="fP-extension-build Logo">
 
 We are an organization focused on creating and maintaining plugins for Discord mod clients.
